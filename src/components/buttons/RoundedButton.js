@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import propTypes from "prop-types";
 import { Text, View, TouchableHighlight, StyleSheet } from "react-native";
+import Icon from "react-native-vector-icons/FontAwesome";
 import colors from "../../styles/color";
 
 export default class RoundedButton extends Component {
